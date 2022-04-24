@@ -2,7 +2,7 @@
 
 CI_COMMIT_BRANCH=$1
 
-APP="wp"
+APP="wp-aldamex"
 SETTING_FILE="setting-${CI_COMMIT_BRANCH}.cfg"
 CFG_FILE=setting.cfg
 
